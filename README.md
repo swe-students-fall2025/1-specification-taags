@@ -4,7 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Abdul, Alfradil, Alif, Galal, Sam
+Alfardil Alam https://github.com/alfardil
+Abdul Mendahawi https://github.com/amendahawi
+Galal Bichara https://github.com/gkbichara
+Sam Rawdon https://github.com/SamRawdon
+Mahabub Alif https://github.com/Alif-4 
 
 ## Stakeholders
 
