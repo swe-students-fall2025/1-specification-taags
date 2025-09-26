@@ -24,7 +24,15 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+See instructions. Delete this line and place a list of your User Stories here.  
+
+As a user, I want to add a place to my Saved list with one tap so that I can quickly keep track of spots I plan to visit or liked before.  
+
+As a user, I want to remove a place from my Saved list so that I can keep the list clean and only keep items I want.  
+
+As a user, I want to add a short note to a saved place (i.e “best at 6pm”, “great for coffee”) so that I remember why I saved it and any tips for next time.  
+
+As a user, I want to share a saved place via a simple link so that I can send it to my partner or friends.  
 
 ## Activity Diagrams
 
