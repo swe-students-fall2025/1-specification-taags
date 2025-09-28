@@ -36,30 +36,61 @@ Our app makes date planning effortless by delivering fresh, personalized, and tr
 
 ## User Requirements
 
-As a user, I want to browse curated date ideas based on interests so that I don’t waste time trying to think of something new.
-As a user, I want to save date ideas to a favorites list so I can come back to them later.
-As a user, I want to generate a complete date plan (restaurant + activity + dessert spot) so I feel confident and organized.
-As a user, I want to share my date plan as a simple card/link so I can easily show it to my partner without overwhelming them with logistics.
-As a user, I want to see nearby venues with reviews and photos so I can choose the right spot.
-As a user, I want directions and estimated travel time between activities so I can plan realistically.
-As a user, I want to see open hours and availability for venues so I don’t plan something that’s closed.
-As a user, I want to filter date ideas by cost range so I can stay within budget.
-As a user, I want to input my partner’s interests so the app recommends activities they’ll enjoy.
-As a user, I want to see seasonal or trending suggestions so my date feels special and timely.
-As a user, I want reminders before my planned date so I don’t forget details or times.
-As a user, I want a polished itinerary view so I can easily follow the plan during the date.
-As a user, I want to be able to set the general location of my date and activities so I can make the experience more location-aware.
-As a user, I want AI to suggest creative twists on my date (e.g., “Bring flowers from this local shop on the way”).
-As a user, I want to rate my past dates so the app learns my style and gives better recommendations.
-As a user, I want inspiration from what others are planning so I can discover hidden gems.
-As a user, I want to create backup options for each part of my date plan so I can pivot if something goes wrong.
-As a user, I want to set the vibe or mood (romantic, adventurous, casual, fancy) so the app tailors the tone of my date ideas.
-As a user, I want to see estimated total cost (including food, activities, and extras) so I can plan my budget accurately.
-As a user, I want integration with my calendar so I can easily block off time and sync reminders.
-As a user, I want suggested add-ons like “grab coffee at this hidden café nearby” so the plan feels more thoughtful and spontaneous.
-As a user, I want to sort or filter activities by time length so I can find a short coffee date or a full-day plan.
-As a user, I want offline access to my itinerary so I don’t lose directions or details if service drops during the date.
-As a user, I want to receive follow-up suggestions (like “want to make this a second date?”) based on my past plan so I can build momentum naturally.
+As a user, I want to browse curated date ideas based on interests so that I don’t waste time trying to think of something new.  
+
+As a user, I want to save date ideas to a favorites list so I can come back to them later.  
+
+As a user, I want to generate a complete date plan (restaurant + activity + dessert spot) so I feel confident and organized.  
+
+As a user, I want to share my date plan as a simple card/link so I can easily show it to my partner without overwhelming them with logistics.  
+
+As a user, I want to see nearby venues with reviews and photos so I can choose the right spot.  
+
+As a user, I want directions and estimated travel time between activities so I can plan realistically.  
+
+As a user, I want to see open hours and availability for venues so I don’t plan something that’s closed.  
+
+As a user, I want to filter date ideas by cost range so I can stay within budget.  
+
+As a user, I want to input my partner’s interests so the app recommends activities they’ll enjoy.  
+
+As a user, I want to see seasonal or trending suggestions so my date feels special and timely.  
+
+As a user, I want reminders before my planned date so I don’t forget details or times.  
+
+As a user, I want a polished itinerary view so I can easily follow the plan during the date.  
+
+As a user, I want to be able to set the general location of my date and activities so I can make the experience more location-aware.  
+
+As a user, I want AI to suggest creative twists on my date (e.g., “Bring flowers from this local shop on the way”).  
+
+As a user, I want to rate my past dates so the app learns my style and gives better recommendations.  
+
+As a user, I want inspiration from what others are planning so I can discover hidden gems.  
+
+As a user, I want to create backup options for each part of my date plan so I can pivot if something goes wrong.  
+
+As a user, I want to set the vibe or mood (romantic, adventurous, casual, fancy) so the app tailors the tone of my date ideas.  
+
+As a user, I want to see estimated total cost (including food, activities, and extras) so I can plan my budget accurately.  
+
+As a user, I want integration with my calendar so I can easily block off time and sync reminders.  
+
+As a user, I want suggested add-ons like “grab coffee at this hidden café nearby” so the plan feels more thoughtful and spontaneous.  
+
+As a user, I want to sort or filter activities by time length so I can find a short coffee date or a full-day plan.  
+
+As a user, I want offline access to my itinerary so I don’t lose directions or details if service drops during the date.  
+
+As a user, I want to receive follow-up suggestions (like “want to make this a second date?”) based on my past plan so I can build momentum naturally.  
+
+As a user, I want to add a place to my Saved list with one tap so that I can quickly keep track of spots I plan to visit or liked before.  
+
+As a user, I want to remove a place from my Saved list so that I can keep the list clean and only keep items I want.  
+
+As a user, I want to add a short note to a saved place (i.e “best at 6pm”, “great for coffee”) so that I remember why I saved it and any tips for next time.  
+
+As a user, I want to share a saved place via a simple link so that I can send it to my partner or friends.  
 
 ## Activity Diagrams
 
