@@ -108,7 +108,8 @@ As a user, I want to share a saved place via a simple link so that I can send it
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![User story #1](<Screenshot 2025-09-29 at 12.14.56.png>)
+![User story #2](<Screenshot 2025-09-29 at 12.16.52.png>)
 
 ## Clickable Prototype
 
