@@ -108,7 +108,10 @@ As a user, I want to share a saved place via a simple link so that I can send it
 
 ## Activity Diagrams
 
+As a user, I want a polished itinerary view so I can easily follow the plan during the date
 ![User story #1](<Screenshot 2025-09-29 at 12.14.56.png>)
+
+As a user, I want to browse curated date ideas based on interests so that I don’t waste time trying to think of something new
 ![User story #2](<Screenshot 2025-09-29 at 12.16.52.png>)
 
 ## Clickable Prototype
